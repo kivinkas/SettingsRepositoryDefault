@@ -1,0 +1,14 @@
+<application>
+  <component name="UpdatesConfigurable">
+    <ignoredBuildNumbers>
+      <item value="191.4738.6" />
+    </ignoredBuildNumbers>
+    <option name="LAST_BUILD_CHECKED" value="IU-191.5532.24" />
+    <option name="LAST_TIME_CHECKED" value="1550135974977" />
+    <pluginHosts>
+      <item value="file:///C:/Users/jetbrains/Downloads/Update plugins Offline/pluginUpdates.xml" />
+    </pluginHosts>
+    <option name="THIRD_PARTY_PLUGINS_ALLOWED" value="true" />
+    <option name="UPDATE_CHANNEL_TYPE" value="eap" />
+  </component>
+</application>
